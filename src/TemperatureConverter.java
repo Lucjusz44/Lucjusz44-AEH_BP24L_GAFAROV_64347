@@ -1,4 +1,4 @@
-package pl.pp;
+package pp;
 
 import java.util.Scanner;
 
